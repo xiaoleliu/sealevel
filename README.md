@@ -29,10 +29,6 @@ fl_data = pd.merge(fl_income, fl_risk, on='TRACTFIPS')
 
 
 
-#combined_data.head()
-
-
-import pandas as pd
 
 
 # Clean the 'families_median_income' from non-numeric characters and convert to numeric
